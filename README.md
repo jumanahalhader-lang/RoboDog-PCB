@@ -9,3 +9,5 @@ PCB A custom PCB designed for a robotic dog project, featuring four servo motor 
 
 ## Software 
 EasyEDA 
+## Author 
+Jumanah AlHadir
